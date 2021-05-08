@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Maxim Ermak","email":"ermakma@biocad.ru"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/multiplay722B4C5DFBF841F2B2042C296BAE66D7.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"Multi_graph","displayName":"Multi_graph","guid":"multiplay722B4C5DFBF841F2B2042C296BAE66D7","visualClassName":"Visual","version":"1.0.0","description":"Multiplay-axis graph for PBI in R","supportUrl":"https://biocad.ru","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}

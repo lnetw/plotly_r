@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Ermak Maxim","email":"ermakma@biocad.ru"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/subplotDA977CD1525C4D0B96F571BCD64B0850.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"Subplot_graph","displayName":"Subplot_graph","guid":"subplotDA977CD1525C4D0B96F571BCD64B0850","visualClassName":"Visual","version":"1.0.0","description":"Custom visualisation on cutivasion curve in PBI","supportUrl":"https://biocad.ru","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
